@@ -1,0 +1,10 @@
+{
+  "name": "electronic-clientes",
+  "version": "1.0.0",
+  "description": "Cadastro de clientes (pessoas físicas e jurídicas) da Electronic em JavaScript orientado a objetos",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "ISC"
+}
